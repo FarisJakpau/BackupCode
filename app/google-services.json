@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "540255730408",
+    "firebase_url": "https://fesbuk-639a0.firebaseio.com",
+    "project_id": "fesbuk-639a0",
+    "storage_bucket": "fesbuk-639a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540255730408:android:66ca676be542f8b9",
+        "android_client_info": {
+          "package_name": "com.example.farisjakpau.fesbuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540255730408-olou98lnq9bdafk5oh6sksngct5b852a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farisjakpau.fesbuk",
+            "certificate_hash": "19e616f15bfb1b52735959e23523812a30c54481"
+          }
+        },
+        {
+          "client_id": "540255730408-pouo5rdstbf7vi86eiptsljlqkfl9gbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGjTrfouWX76G839_FWQkT9an3UcLF1YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540255730408-pouo5rdstbf7vi86eiptsljlqkfl9gbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
