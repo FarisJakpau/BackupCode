@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/but">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:text=""
+            android:layout_width="355dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/tmess"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="18dp" />
+
+        <TextView
+            android:text=""
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="37dp"
+            android:id="@+id/des"
+            android:layout_below="@+id/tmess" />
+
+        <Button
+            android:text="CHECKING"
+            android:background="#20B2AA"
+            android:layout_width="300dp"
+            android:layout_height="34dp"
+            android:id="@+id/but1"
+            android:textColor="#ffff"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+</LinearLayout>
